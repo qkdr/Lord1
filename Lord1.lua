@@ -21,7 +21,8 @@ local games = {
     [117957332897543] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua", 
     [18626211593] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua",
     [126625214460461] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua", 
-    [83962596228244] = "https://raw.githubusercontent.com/qkdr/Lord1/refThronixads/main/Final.lua"
+    [83962596228244] = "https://raw.githubusercontent.com/qkdr/Lord1/refThronixads/main/Final.lua", 
+    [11379739543] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua"
 }
 
 local defaultScript = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/beginning.lua"
