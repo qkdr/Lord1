@@ -22,7 +22,16 @@ local games = {
     [18626211593] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua",
     [126625214460461] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua", 
     [83962596228244] = "https://raw.githubusercontent.com/qkdr/Lord1/refThronixads/main/Final.lua", 
-    [11379739543] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua"
+    [11379739543] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua",
+    [17612027930] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua",
+    [129954712894461] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua",
+    [114501358617756] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua",
+    [88730406335204] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua",
+    [14259168147] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua", 
+    [117957332897543] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua", 
+    [18626211593] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua", 
+    [126625214460461] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua", 
+    [83962596228244] = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/Final.lua"
 }
 
 local defaultScript = "https://raw.githubusercontent.com/qkdr/Lord1/refs/heads/main/beginning.lua"
